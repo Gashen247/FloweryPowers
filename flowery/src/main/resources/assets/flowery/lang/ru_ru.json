@@ -1,0 +1,26 @@
+{
+  "itemGroup.flowery": "Flowery",
+  "item.flowery.flower_chestplate": "Цветок Flowery",
+  "item.flowery.flower_chestplate.tooltip.lmb": "ЛКМ: рывок Jarona! (без перезарядки)",
+  "item.flowery.flower_chestplate.tooltip.rmb": "ПКМ: Mysterious wind! (с перезарядкой)",
+  "item.flowery.flower_chestplate.tooltip.windrun": "Зажмите W + ПКМ: быстрый бег, взгляд вверх/вниз задаёт подъём или снижение",
+  "item.flowery.flower_chestplate.tooltip.flight": "Наденьте на грудь, чтобы летать и оставлять разноцветный след из скина",
+
+  "subtitles.flowery.jarona": "Jarona!",
+  "subtitles.flowery.mysterious_wind": "Mysterious wind!",
+
+  "flowery.configuration.title": "Настройки Flowery",
+  "flowery.configuration.section.flowery.common.toml": "Настройки Flowery",
+  "flowery.configuration.section.flowery.common.toml.title": "Настройки Flowery",
+  "flowery.configuration.windCooldownSeconds": "Перезарядка ветра (секунды)",
+  "flowery.configuration.dashSpeed": "Скорость рывка",
+  "flowery.configuration.dashDamage": "Урон рывка",
+  "flowery.configuration.dashDurationTicks": "Длительность рывка (тики)",
+  "flowery.configuration.windRadius": "Радиус ветра",
+  "flowery.configuration.windKnockback": "Отбрасывание ветром",
+  "flowery.configuration.trailSpacingBlocks": "Расстояние между копиями (блоки)",
+  "flowery.configuration.trailMaxAfterimages": "Максимум копий на игрока",
+  "flowery.configuration.trailLifetimeTicks": "Время жизни следа (тики)",
+  "flowery.configuration.windRunSpeed": "Скорость бега с ветром",
+  "flowery.configuration.windRunRefreshTicks": "Удержание ввода бега (тики)"
+}

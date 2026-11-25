@@ -1,0 +1,26 @@
+{
+  "itemGroup.flowery": "Flowery",
+  "item.flowery.flower_chestplate": "Flowery Flower",
+  "item.flowery.flower_chestplate.tooltip.lmb": "Left click: Jarona! dash (no cooldown)",
+  "item.flowery.flower_chestplate.tooltip.rmb": "Right click: Mysterious wind! (has cooldown)",
+  "item.flowery.flower_chestplate.tooltip.windrun": "Hold W + right click: fast wind run, look up/down to steer",
+  "item.flowery.flower_chestplate.tooltip.flight": "Wear on your chest to fly and leave a colorful skin trail",
+
+  "subtitles.flowery.jarona": "Jarona!",
+  "subtitles.flowery.mysterious_wind": "Mysterious wind!",
+
+  "flowery.configuration.title": "Flowery Configs",
+  "flowery.configuration.section.flowery.common.toml": "Flowery Configs",
+  "flowery.configuration.section.flowery.common.toml.title": "Flowery Configs",
+  "flowery.configuration.windCooldownSeconds": "Wind cooldown (seconds)",
+  "flowery.configuration.dashSpeed": "Dash speed",
+  "flowery.configuration.dashDamage": "Dash damage",
+  "flowery.configuration.dashDurationTicks": "Dash duration (ticks)",
+  "flowery.configuration.windRadius": "Wind radius",
+  "flowery.configuration.windKnockback": "Wind knockback",
+  "flowery.configuration.trailSpacingBlocks": "Trail spacing (blocks)",
+  "flowery.configuration.trailMaxAfterimages": "Max afterimages per player",
+  "flowery.configuration.trailLifetimeTicks": "Trail lifetime (ticks)",
+  "flowery.configuration.windRunSpeed": "Wind run speed",
+  "flowery.configuration.windRunRefreshTicks": "Wind run input hold (ticks)"
+}

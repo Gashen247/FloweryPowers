@@ -1,0 +1,32 @@
+{
+  "jarona": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "flowery:jarona_1",
+        "weight": 1,
+        "stream": false
+      },
+      {
+        "name": "flowery:jarona_2",
+        "weight": 1,
+        "stream": false
+      },
+      {
+        "name": "flowery:jarona_3",
+        "weight": 1,
+        "stream": false
+      }
+    ]
+  },
+  "mysterious_wind": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "flowery:mysterious_wind",
+        "weight": 1,
+        "stream": false
+      }
+    ]
+  }
+}
